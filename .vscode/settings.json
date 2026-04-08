@@ -1,5 +1,5 @@
 {
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true,
-    "djangoTestManager.projectRoot": "ch05-message-board-website",
+    "djangoTestManager.projectRoot": "ch06-blog-website",
 }
