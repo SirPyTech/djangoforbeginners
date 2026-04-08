@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "ms-python.black-formatter",
-        "qwtel.sqlite-viewer"
+        "qwtel.sqlite-viewer",
+        "viseshagarwal.django-test-manager"
     ]
 }
