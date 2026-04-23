@@ -1,5 +1,5 @@
 {
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true,
-    "djangoTestManager.projectRoot": "ch09-newspaper",
+    "djangoTestManager.projectRoot": "ch10-user-authentication",
 }

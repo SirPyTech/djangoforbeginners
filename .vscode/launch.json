@@ -13,7 +13,7 @@
             ],
             "django": true,
             "autoStartBrowser": false,
-            "program": "${workspaceFolder}/ch08-user-accounts/manage.py",
+            "program": "${workspaceFolder}/ch10-user-authentication/manage.py",
             "justMyCode": false
         }
     ]
