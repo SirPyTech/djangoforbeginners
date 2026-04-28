@@ -13,8 +13,8 @@
             ],
             "django": true,
             "autoStartBrowser": false,
-            "python": "${workspaceFolder}/ch11-bootstrap/.venv/bin/python",
-            "program": "${workspaceFolder}/ch11-bootstrap/manage.py",
+            "python": "${workspaceFolder}/ch13-articles/.venv/bin/python",
+            "program": "${workspaceFolder}/ch13-articles/manage.py",
             "justMyCode": false
         }
     ]
